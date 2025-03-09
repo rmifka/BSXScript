@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "KD+W3PWZw7U=",
+  "success": true,
+  "projectFilePath": "A:\\Rider Projects\\BSXScript\\BSXScript\\BSXScript.csproj",
+  "expectedPackageFiles": [
+    "A:\\.nuget\\beatsabermoddingtools.tasks\\2.0.0-beta7\\beatsabermoddingtools.tasks.2.0.0-beta7.nupkg.sha512",
+    "A:\\.nuget\\microsoft.build.framework\\16.5.0\\microsoft.build.framework.16.5.0.nupkg.sha512",
+    "A:\\.nuget\\microsoft.build.tasks.core\\16.5.0\\microsoft.build.tasks.core.16.5.0.nupkg.sha512",
+    "A:\\.nuget\\microsoft.build.utilities.core\\16.5.0\\microsoft.build.utilities.core.16.5.0.nupkg.sha512",
+    "A:\\.nuget\\microsoft.visualstudio.setup.configuration.interop\\1.16.30\\microsoft.visualstudio.setup.configuration.interop.1.16.30.nupkg.sha512",
+    "A:\\.nuget\\moonsharp\\2.0.0\\moonsharp.2.0.0.nupkg.sha512",
+    "A:\\.nuget\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "A:\\.nuget\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "A:\\.nuget\\system.diagnostics.process\\4.3.0\\system.diagnostics.process.4.3.0.nupkg.sha512",
+    "A:\\.nuget\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "A:\\.nuget\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "A:\\.nuget\\system.resources.extensions\\4.6.0\\system.resources.extensions.4.6.0.nupkg.sha512",
+    "A:\\.nuget\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "A:\\.nuget\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
