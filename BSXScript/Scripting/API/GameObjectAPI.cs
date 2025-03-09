@@ -17,6 +17,11 @@ public class GameObjectAPI
         if (obj == null) return DynValue.NewBoolean(false);
         return DynValue.NewBoolean(obj.activeSelf);
     }
+
+    public GameObject[] FindObjectsOfType(string type)
+    {
+        return Resources.FindObjectsOfTypeAll<GameObject>().Where(o => o.GetType().Name == type).ToArray();
+    }
 }
 
 [MoonSharpUserData]

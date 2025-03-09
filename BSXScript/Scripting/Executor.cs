@@ -151,6 +151,7 @@ public class Executor
         script.Globals["GameObject"] = new GameObjectAPI();
         script.Globals["Transform"] = new TransformAPI();
         script.Globals["Timer"] = new TimerAPI();
+        script.Globals["Types"] = new TypeAPI();
     }
 
     private void RegisterComplexAPIs(Script script)
